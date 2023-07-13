@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'Welcome to my app!',
+          'Welcome to my app',
           style: TextStyle(fontSize: 24),
         ),
       ),
